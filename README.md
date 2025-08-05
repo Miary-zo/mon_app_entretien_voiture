@@ -19,6 +19,7 @@ Une application Flutter pour enregistrer et gérer l’entretien de vos véhicul
 - Flutter
 - Dart
 - SQLite
+- Firebase (Authentification, cloud Firestore,...)
 - Git & GitHub
 
 ---
