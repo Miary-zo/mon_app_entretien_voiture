@@ -1,17 +1,46 @@
-# entretien
+# 🚗 Mon App Entretien Voiture
 
-A new Flutter project.
+Une application Flutter pour enregistrer et gérer l’entretien de vos véhicules personnels.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 📱 Fonctionnalités
 
-A few resources to get you started if this is your first Flutter project:
+- Enregistrement des pièces achetées
+- Gestion des montages de pièces (avec date)
+- Ajout de voitures
+- Interface simple et intuitive
+- Données stockées localement avec SQLite
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# mon_app_entretien_voiture
+## 🛠️ Technologies utilisées
+
+- Flutter
+- Dart
+- SQLite
+- Git & GitHub
+
+---
+
+## 🎥 Captures d’écran
+
+> *(Ajoute ici des images ou gifs de ton application en fonctionnement)*
+
+---
+
+## 📂 Dossier du projet
+
+Le code complet est ici 👉 [GitHub Repo](https://github.com/Miary-zo/mon_app_entretien_voiture)
+
+---
+
+## 👨‍💻 À propos de moi
+
+Je suis un développeur Flutter débutant, passionné par les applications mobiles.  
+Je cherche des opportunités de travail en ligne ou des collaborations open-source.
+
+- 📧 Email : tonemail@gmail.com
+- 🔗 LinkedIn ou portfolio (si tu en as)
+
+---
